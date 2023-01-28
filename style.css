@@ -1,6 +1,11 @@
 @font-face {
     font-family: JustMyType;
-    src: url(./fonts//just-my-type-font/JustMyType.ttf)
+    src: url(./fonts/just-my-type-font/JustMyType.ttf)
+}
+
+@font-face {
+    font-family: PressStart;
+    src: url(./fonts/press-start-font/PressStart.ttf)
 }
 
 @font-face {
